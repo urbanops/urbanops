@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @urbanops
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python (current status: beginner)
 - 📫 How to reach me: urban0s@outlook.com
 
 <!---
