@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @urbanops
-- 👀 I’m interested in learning how to code
+
 - 📫 How to reach me: urban0s@outlook.com
 
 <!---
