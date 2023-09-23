@@ -1,6 +1,5 @@
 
-- 📫 How to reach me: urban0s@outlook.com
-
+...........................
 <!---
 - 💞️ I’m looking to collaborate on ...
 urbanops/urbanops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
